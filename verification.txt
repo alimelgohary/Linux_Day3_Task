@@ -1,0 +1,16 @@
+/opt/webapp:
+total 12
+drwx------ 2 webapp_user webapp_support 4096 Feb 10 19:23 bin
+drwxr-x--- 2 webapp_user webapp_support 4096 Feb 10 19:24 config
+drwxr-x--- 2 webapp_user webapp_support 4096 Feb 10 19:24 logs
+
+/opt/webapp/bin:
+total 0
+
+/opt/webapp/config:
+total 0
+
+/opt/webapp/logs:
+total 0
+uid=993(webapp_user) gid=980(webapp_user) groups=980(webapp_user)
+support1 : support1 webapp_support
